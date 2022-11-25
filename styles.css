@@ -1,12 +1,40 @@
-/* body {
-background: teal;
-}  */
+body {
+    background: teal;
+}
 
-.dz{
+.dz {
     width: 400px;
 }
 
-.img {
+.s {
     width: 50%;
-    height: 100px;
-    }
+    height: 90%;
+}
+
+.headerone {
+    background-color: aqua;
+}
+
+li {
+    font-style: italic;
+    margin: 10px 0;
+}
+
+.link {
+    background-color: rgb(255, 242, 0);
+}
+
+.text {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.text2 {
+    color: darkorange;
+    font-size: 30px;
+}
+
+.text3 {
+    color: gold;
+    font-size: 40px;
+}
